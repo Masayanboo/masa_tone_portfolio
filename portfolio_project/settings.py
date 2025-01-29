@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure--nusqpgyim(_tmc8_k2%l5q%k4xvkex4#g7_i^1wfp%hc=c%g_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['masatane-portfolio.onrender.com']
+
 
 
 # Application definition
